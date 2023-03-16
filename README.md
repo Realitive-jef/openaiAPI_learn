@@ -1,4 +1,4 @@
-# openaiAPI_learning
+# openaiAPI_learn
 
 プロンプトの入力結果をコンソールに返す
 
